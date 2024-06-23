@@ -1,7 +1,6 @@
-# Olá (=
+# Olá! Eu sou o Arthur Melo (=
 
-## Sobre mim
-Olá! Meu nome é Arthur de Melo Barbosa e sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Estou interessado em diversas áreas dentro da computação, com foco especial em Ciência de Dados e Inteligência Artificial.
+Eu sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Estou interessado em diversas áreas dentro da computação, com foco especial em Ciência de Dados e Inteligência Artificial.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthmelo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthmelo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
