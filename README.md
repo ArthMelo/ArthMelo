@@ -16,7 +16,7 @@ Sou estudante de graduação em Ciência da Computação na Universidade Federal
 ## 🧠 Habilidades
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,,c,github" />
+    <img src="https://skillicons.dev/icons?i=git,java,c,github" />
   </a>
 </p>
 
