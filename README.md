@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Arthur Melo.
 ##  🚀 Sobre Mim 
-Sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Atualmente sou trainee da equipe de Desenvolvimento da UFRJ Analytica. Estou interessado em diversas áreas dentro da computação, com foco especial em Ciência de Dados e Inteligência Artificial.
+Sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Atualmente sou trainee da equipe de Desenvolvimento da UFRJ Analytica. Tenho muito interesse em diversas áreas dentro da computação, com foco especial em Ciência de Dados e Inteligência Artificial.
 
 <div align="center">
 
@@ -8,7 +8,6 @@ Sou estudante de graduação em Ciência da Computação na Universidade Federal
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthmelo&layout=compact&bg_color=000000&border_color=AAAAAA&title_color=FFFFFF&text_color=DDDDDD" height="180"/>
 
 </div>
-
 
 ## 📖 Experiência
 - **Universidade Federal do Rio de Janeiro (UFRJ)**  
@@ -18,6 +17,12 @@ Sou estudante de graduação em Ciência da Computação na Universidade Federal
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 📖 Estudando atualmente
+- Banco de Dados
+- Computação Científica
+- Machine Learning
+- Estatística e Probabilidade
 
 ## 🔗 Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthMelo) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](arthurmb@dcc.ufrj.br) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-melo-891394282/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthmelo_)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arthmelo)
