@@ -1,4 +1,4 @@
-# Olá! Eu sou o Arthur Melo.
+# 👋 Olá! Eu sou o Arthur Melo.
 ##  🚀 Sobre Mim 
 Sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Atualmente sou trainee da equipe de Desenvolvimento da UFRJ Analytica. Estou interessado em diversas áreas dentro da computação, com foco especial em Ciência de Dados e Inteligência Artificial.
 
@@ -10,11 +10,12 @@ Sou estudante de graduação em Ciência da Computação na Universidade Federal
 </div>
 
 
-## 📖 Experiência Acadêmica
+## 📖 Experiência
 - **Universidade Federal do Rio de Janeiro (UFRJ)**  
   - Bacharelado em Ciência da Computação (2023 - Presente)
  
 ## 🧠 Habilidades
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 🔗 Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthMelo) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](arthurmb@dcc.ufrj.br) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-melo-891394282/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthmelo_)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arthmelo)
