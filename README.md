@@ -14,9 +14,11 @@ Sou estudante de graduação em Ciência da Computação na Universidade Federal
   - Bacharelado em Ciência da Computação (2023 - Presente)
  
 ## 🧠 Habilidades
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,,c,github" />
+  </a>
+</p>
 
 ## 📖 Estudando atualmente
 - Banco de Dados
