@@ -2,9 +2,13 @@
 ##  🚀 Sobre Mim 
 Sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Atualmente sou trainee da equipe de Desenvolvimento da UFRJ Analytica. Estou interessado em diversas áreas dentro da computação, com foco especial em Ciência de Dados e Inteligência Artificial.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthmelo&theme=transparent&bg_color=000000&border_color=AAAAAA&show_icons=true&icon_color=CCCCCC&title_color=FFFFFF&text_color=DDDDDD)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthmelo&layout=compact&bg_color=000000&border_color=AAAAAA&title_color=FFFFFF&text_color=DDDDDD)
+  <img src="https://github-readme-stats.vercel.app/api?username=arthmelo&theme=transparent&bg_color=000000&border_color=AAAAAA&show_icons=true&icon_color=CCCCCC&title_color=FFFFFF&text_color=DDDDDD" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthmelo&layout=compact&bg_color=000000&border_color=AAAAAA&title_color=FFFFFF&text_color=DDDDDD" height="180"/>
+
+</div>
+
 
 ## 📖 Experiência Acadêmica
 - **Universidade Federal do Rio de Janeiro (UFRJ)**  
